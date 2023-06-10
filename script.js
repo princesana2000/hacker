@@ -1,5 +1,5 @@
 fun=()=>{
-    alert("your phone is hacked")}
+    alert("security alert. Got access to your personal information ")}
 
 but.addEventListener('click',function(){
 but.innerHTML="Tu to ullu ban gaya ,Ab tera kya hoga kalia";
